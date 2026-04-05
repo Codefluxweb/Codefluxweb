@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm  Codefluxweb, a passionate Full Stack Developer<br> focused on building fast, scalable, and user-friendly<br> web applications. I work with modern technologies like<br> React, Node.js, and MongoDB to create efficient<br> digital solutions.<br><br>💡 I enjoy writing clean code, improving user experience, <br>and continuously learning by building real-world projects.<br><br>🔧 Tech Stack:<br>JavaScript | HTML | CSS | React.js | Node.js | Express.js <br>| MongoDB | MySQL | REST APIs | Git/GitHub<br><br><br>📫 Email: codeflux33@gmail.com<br><br>🌱 Always learning, building, and sharing knowledge.<br>now create this for github readme about 
+Hi, I'm  Codefluxweb, a passionate MERN Stack Developer<br> focused on building fast, scalable, and user-friendly<br> web applications. I work with modern technologies like<br> React, Node.js, and MongoDB to create efficient<br> digital solutions.<br><br>💡 I enjoy writing clean code, improving user experience, <br>and continuously learning by building real-world projects.<br><br>🔧 Tech Stack:<br>JavaScript | HTML | CSS | React.js | Node.js | Express.js <br>| MongoDB | MySQL | REST APIs | Git/GitHub<br><br><br>📫 Email: codeflux33@gmail.com<br><br>🌱 Always learning, building, and sharing knowledge.<br>now create this for github readme about 
 
 
 ## 🌐 Socials:
